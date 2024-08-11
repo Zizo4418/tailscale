@@ -1,4 +1,5 @@
-# Tailscale
+# Tailscale tailscale <command>
+
 
 https://tailscale.com
 
