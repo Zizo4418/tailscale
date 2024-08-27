@@ -2,7 +2,7 @@ name: Bug report
 description: File a bug report. If you need help, contact support instead
 labels: [needs-triage, bug]
 body:
-  - type: markdown
+  - type: markdo
     attributes:
       value: |
         Need help with your tailnet? [Contact support](https://tailscale.com/contact/support) instead.
